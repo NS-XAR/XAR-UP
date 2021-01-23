@@ -10,13 +10,13 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/NS-XAR/XAR.git
+git clone 
 
-cd XAR
+cd XAR-UP
 
-chmod 777 XAR.py
+chmod 777 MONSTER.py
 
-python2 XAR.py
+python2 MONSTER.py
 
 Best tool for kurdish hacker conect me for
 
