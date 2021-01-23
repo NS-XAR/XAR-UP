@@ -12,7 +12,7 @@ pip2 install mechanize
 
 git clone https://github.com/NS-XAR/XAR-UP.git
 
-cd XAR-UP
+cd MONESTAR
 
 chmod 777 MONSTER.py
 
