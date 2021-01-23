@@ -1,24 +1,24 @@
 # XAR-UP
 
-pkg update
+-pkg update
 
-pkg upgrade
+-pkg upgrade
 
-pkg install git
+-pkg install git
 
-pip2 install requests
+-pip2 install requests
 
-pip2 install mechanize
+-pip2 install mechanize
 
-git clone 
+-git clone https://github.com/NS-XAR/XAR-UP.git
 
-cd XAR-UP
+-cd XAR-UP
 
-chmod 777 MONSTER.py
+-chmod 777 MONSTER.py
 
-python2 MONSTER.py
+-python2 MONSTER.py
 
-Best tool for kurdish hacker conect me for
+## Best tool for kurdish hacker conect me for
 
 user:
 pass:
